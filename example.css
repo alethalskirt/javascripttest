@@ -1,0 +1,14 @@
+body {
+  background-image: url("STDS9.jpg");
+  background-size: 300px;
+  background-repeat: no-repeat;
+}
+
+.example, #ds9 {
+  color: white;
+}
+
+.example2 {
+  display: flex;
+  flex-direction: row;
+}
